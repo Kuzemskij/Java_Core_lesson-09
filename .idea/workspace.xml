@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1aaf88e-10fd-46bf-ba3f-577c68074bd6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ua/lviv/lgs/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/lviv/lgs/task1/WrongInputConsoleParametersException.java" afterDir="false" />
+    <list default="true" id="b1aaf88e-10fd-46bf-ba3f-577c68074bd6" name="Changes" comment="task 1 created">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +23,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="bf686a9c-db6a-4832-af1d-f7df5ab7e73c" />
+    <option name="defaultAccountId" value="1a03c2af-f832-48e9-bb9f-4b204b135328" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -50,9 +48,18 @@
       <option name="presentableId" value="Default" />
       <updated>1673215070126</updated>
     </task>
+    <task id="LOCAL-00001" summary="task 1 created">
+      <created>1673221987650</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673221987650</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="task 1 created" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 1 created" />
   </component>
 </project>
