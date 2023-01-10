@@ -1,6 +1,16 @@
+/*
+ * LOGOS IT Academy. First Java Core Console Application.
+ */
+
 package ua.lviv.lgs.task1;
 
 import java.util.Scanner;
+
+/**
+ * @author Maxim Kuzemskij
+ * @since Java 1.8
+ * @version 1.1  11 Січ 2023
+ */
 
 public class Main {
 
@@ -35,6 +45,7 @@ public class Main {
         }
     }
 
+    /* displays the application menu on the console */
     public static void menu() {
         System.out.println("Натисніть 1, Щоб перевірити чи є такий місяць;");
         System.out.println("Натисніть 2, Щоб вивести всі місяці за порою року");
@@ -63,7 +74,7 @@ public class Main {
 
 
 
-
+        /* takes the values from the scanner and runs the corresponding case */
         switch (input) {
 
             case "1": {

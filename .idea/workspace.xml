@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1aaf88e-10fd-46bf-ba3f-577c68074bd6" name="Changes" comment="task 1 created">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/lviv/lgs/task2/Main.java" afterDir="false" />
+    <list default="true" id="b1aaf88e-10fd-46bf-ba3f-577c68074bd6" name="Changes" comment="task 1 created&#10;task 2 created">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ua/lviv/lgs/task1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ua/lviv/lgs/task1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,11 +90,19 @@
       <option name="project" value="LOCAL" />
       <updated>1673268890760</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="task 1 created&#10;task 2 created">
+      <created>1673313795580</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673313795580</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task 1 created" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 1 created" />
+    <MESSAGE value="task 1 created&#10;task 2 created" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 1 created&#10;task 2 created" />
   </component>
 </project>
